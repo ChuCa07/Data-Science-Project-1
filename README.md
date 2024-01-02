@@ -1,8 +1,8 @@
 # DataScience_Project1
-Subecjt: Data Science Introduction 
-  
-## Project: The best movie in 2023 on The Movie Database (TMDb)
 
+## Project: Analyzing movies in 2023 on The Movie Database (TMDb)
+
+- Subecjt: Data Science Introduction 
 - Name: Lê Đức Cường
 - Student code: 21120213
 - Website I get data: https://www.themoviedb.org/
