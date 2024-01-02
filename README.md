@@ -1,10 +1,10 @@
 # DataScience_Project1
 Subecjt: Data Science Introduction 
   
-  Student's name: Le Duc Cuong 
-  
-  ID student: 21120213
-  
-  ID group: 28
-  
-  Topic: Analyzing movies in 2023 on The Movie Database
+## Project: The best movie in 2023 on The Movie Database (TMDb)
+
+- Name: Lê Đức Cường
+- Student code: 21120213
+- Website I get data: https://www.themoviedb.org/
+
+    The Movie Database (TMDb) is a collaborative film database. The project was founded in 2008 by Travis Bell to collect movie posters. The initial database was a donation from the free project Open Media Database (OMDb). This database has 913420 movies (including the adults content). In this project, I analyze data about movies which is released in 2023.
