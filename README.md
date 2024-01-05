@@ -1,4 +1,4 @@
-# DataScience_Project1
+# Data Science's Project 1
 
 ## Project: Analyzing movies in 2023 on The Movie Database (TMDb)
 
