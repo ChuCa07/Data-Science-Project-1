@@ -17,7 +17,8 @@
 ### Refrerences:
     https://developer.themoviedb.org/
     https://pandas.pydata.org/
+    https://matplotlib.org/
     https://docs.python.org/
     https://www.tutorialspoint.com/jupyter/
     Bing AI help me edit my English sentences in report and notebook files.
-*Last modified date: Jan 5th 2023*
+*Last modified date: Jan 6th 2023*
